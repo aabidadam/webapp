@@ -8,7 +8,7 @@ This web application allows users to upload an image and receive a text descript
 ### Prerequisites
 1. **Backend**:
    - Python 3.x
-   - Flask or FastAPI (or any preferred web framework)
+   - Flask or FastAPI 
    - TensorFlow or Hugging Face library
 ### Steps
 
