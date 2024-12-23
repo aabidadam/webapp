@@ -4,12 +4,6 @@
 This web application allows users to upload an image and receive a text description of the image content. The backend leverages a pre-trained image classification model to generate descriptions, and the frontend provides an intuitive interface for image upload and result display.
 
 ## Local Setup and Execution
-
-### Prerequisites
-1. **Backend**:
-   - Python 3.x
-   - Flask or FastAPI 
-   - TensorFlow or Hugging Face library
 ### Steps
 
 #### Backend Setup
